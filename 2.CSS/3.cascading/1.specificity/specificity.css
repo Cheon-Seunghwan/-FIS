@@ -1,0 +1,17 @@
+/* 우선순위 확인 */
+*{
+    color: red;
+}
+
+p{
+    font-size: 30px;
+    color: orange;
+}
+/* 기호 . 사용 */
+.class-selector{
+    color: brown;
+}
+/* 기호 # 사용 */
+#id-selector{
+    color: green;
+}
