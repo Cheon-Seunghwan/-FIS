@@ -1,0 +1,21 @@
+.disney {
+    /* 내부 인스턴스를 따로 설정하지 않아도 상속 됨 */
+    color: firebrick;
+}
+
+p {
+    border: dashed 2px;
+}
+
+h3 {
+    color: green;
+}
+
+#sidebar {
+    color: blue;
+}
+
+#sidebar h3 {
+    /* 강제상속 */
+    color: inherit;
+}
