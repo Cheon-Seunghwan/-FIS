@@ -1,0 +1,13 @@
+.width-default {
+    /* 기본값이랑 같아서 주석처리 안해도 똑같음 */
+    /* width: 100%; */
+}
+
+.width-px {
+    width: 300px;
+}
+
+.width-pct {
+    width: 50%;
+    /* w50p */
+}

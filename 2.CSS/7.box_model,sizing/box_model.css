@@ -1,0 +1,22 @@
+/* 직접 같이 타이핑하여 학습 */
+* {
+    /* content-box가 기본값 */
+    /* box클래스 안에 들어가도 되고 전체 선택자로 해도 된다. */
+    /* box-sizing: content-box; */
+    /* box-sizing: border-box; */
+}
+
+.box {
+    width: 300px;
+    /* bgco */
+    background-color: skyblue;
+    /* fz50 */
+    font-size: 50px;
+    /* p20 */
+    /* 경계선으로부터 유격 */
+    padding: 20px;
+    border: dashed 10px beige;
+
+    /* m20 */
+    margin: 20px;
+}
